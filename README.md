@@ -1,27 +1,27 @@
 # vue2-project
 
-## Project setup
+## 项目启动
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发模式编译
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产模式编译
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### lints检查
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 更多vue-cli配置
+[点击链接跳转](https://cli.vuejs.org/config/).
 
 ```
 vue2-project
