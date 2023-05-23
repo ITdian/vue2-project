@@ -1,5 +1,8 @@
 <template>
-  <div>{{title}}</div>
+  <div>
+    <div>{{title}}</div>
+    <el-button @click="onBtn">默认按钮</el-button>
+  </div>
 </template>
 
 <script>
@@ -8,6 +11,11 @@
     data() {
       return {
         title: '首页'
+      }
+    },
+    methods: {
+      onBtn () {
+        this.$message('6666')
       }
     }
   }

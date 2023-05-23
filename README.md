@@ -1,6 +1,6 @@
 # vue2-project
 
-## 项目启动
+## 项目依赖安装
 ```
 npm install
 ```
